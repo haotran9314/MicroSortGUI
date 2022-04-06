@@ -1,0 +1,36 @@
+configPage:
+  cameraConfiguration:
+    exposureTime: '33'
+    height: '512'
+    width: '512'
+  dropletConfiguration:
+    dropletTravelTime: 0.6
+    dropletTravelTimeUnit: 0
+    numberOfDroplets: 2000.0
+    numberOfDropletsUnit: 0
+    pulseTime: 0.6
+    pulseTimeUnit: 0
+    sortingElectrode: 95
+  flameConfiguration:
+    integrationTime: 12
+    integrationTimeUnit: 0
+    period: 0
+    periodUnit: 1
+    strobeLamp: 0
+    strobeLampMode: 1
+    triggerMode: 0
+  microcontrollerConfiguration:
+    deviceName: USB Serial Device (COM9)
+viewPage:
+  defaultFolder: C:/Users/tranh/OneDrive/Desktop/Qt Desinger-Git
+  intensityMaximum: 4000.0
+  intensityMinimum: 500.0
+  pumpName:
+  - Fluoracien
+  - Oil
+  - ''
+  - ''
+  - ''
+  spectrometerName: Simulation Spectrometer
+  wavelengthMaximum: 600.0
+  wavelengthMinimum: 500.0

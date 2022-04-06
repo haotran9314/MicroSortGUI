@@ -1,0 +1,16 @@
+psutil
+pyyaml
+pyserial
+opencv-python
+seabreeze
+pysub
+seatease
+scipy
+qdarkstyle
+PyQt5
+matplotlib
+pyqtgraph
+monotonic
+pyusb
+numba
+pywin32

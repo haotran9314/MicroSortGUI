@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>microscope.png</file>
+    <file>lab.png</file>
+    <file>reuse.png</file>
+    <file>check.png</file>
+    <file>loadConfig.png</file>
+    <file>saveConfig.png</file>
+    <file>pause.png</file>
+    <file>play.png</file>
+    <file>configButton.png</file>
+    <file>addFolder.png</file>
+    <file>diskette.png</file>
+    <file>gear.png</file>
+    <file>deleteFolder.png</file>
+    <file>offButton.png</file>
+    <file>onButton.png</file>
+  </qresource>
+</RCC>
